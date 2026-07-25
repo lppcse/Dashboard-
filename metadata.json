@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Sales Dashboard",
+  "description": "Real-time sales data visualization using React and D3.js with Line, Bar, Pie, and Donut charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
